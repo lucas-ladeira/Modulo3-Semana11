@@ -15,7 +15,7 @@ No diretório do projeto, você pode executar:
 Executa o aplicativo no modo de desenvolvimento.\
 Abra [http://localhost:3000](http://localhost:3000) para visualizá-lo em seu navegador.
 
-<img src="imagens/01.png" alt="Tela inicial">
+<img src="imagens/01.png">
 
 A página será recarregada quando você fizer alterações.\
 Você também pode ver erros de lint no console.
